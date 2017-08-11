@@ -7,8 +7,7 @@ People are turned off. That’s why only 40% of U.S. households own individual l
 
 Objective:
 --------------
-To develop a predictive model that is quicker, less laborintensive for new and exsisting customers accurately classifies risk using a automated approach, you can greatly impact public perception of the industry.
-
+To develop a predictive model that is quicker, less labor-intensive for new and existing customers and to accurately classifies risk using an automated approach.
 
 
 
